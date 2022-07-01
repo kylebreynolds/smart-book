@@ -15,7 +15,7 @@ The Smart Book is a full stack web application where a user can register, browse
 
 ## Website
 
-Follow [this link]() to the deployed application!
+Follow [this link](https://smart-book100.herokuapp.com/) to the deployed application!
 
 ## Usage
 
